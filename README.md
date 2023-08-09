@@ -50,6 +50,12 @@ Proteus中创建自定义元件，调用dll文件实现tcp-client，向指定ip�
 
    ![image-20230809182928848](./README.assets/image-20230809182928848.png)
 
+3. python3运行`tcp_server.py`，任意点击仿真中的按键
+
+   ![image-20230809183921128](./README.assets/image-20230809183921128.png)
+
+
+
 ## 其他参考资料
 
 https://github.com/MockbaTheBorg/VSMModel
